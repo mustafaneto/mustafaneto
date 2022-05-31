@@ -1,5 +1,8 @@
 ### Olá, me chamo Mustafa Neto 👋! 
+<p>Sou estudante de sistemas de informação e estagiário da empresa <a target="_blank" href="http://ciriuserp.com.br/">CIRIUS ERP</a>. <br> Foco na parte em desenvolvimento Web.</p>
+
 ##
+
 <div align="center">
   <a href="https://github.com/mustafaneto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafaneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
