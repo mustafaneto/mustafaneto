@@ -1,5 +1,5 @@
 ### Olá, me chamo Mustafa Neto 👋! 
-<p>Sou estudante de sistemas de informação e estagiário da empresa <a target="_blank" href="http://ciriuserp.com.br/">CIRIUS ERP</a>. <br> Foco na parte em desenvolvimento Web.</p>
+<p>Sou estudante de sistemas de informação e estagiário da empresa <a href="http://ciriuserp.com.br/" target="_blank">CIRIUS ERP</a>. <br> Foco na parte em desenvolvimento Web.</p>
 
 ##
 
