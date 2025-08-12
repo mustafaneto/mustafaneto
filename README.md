@@ -2,7 +2,7 @@
 ##
 
 <p align="center">
-  Sou Desenvolvedor Full Stack Pleno na <a href="https://meta.com.br/" target="_blank">META</a>, Bacharel em Sistemas de Informação (CEFET/RJ) e Engenharia Civil (UFAC).<br>
+  Sou Desenvolvedor Full Stack Pleno na <a href="https://meta.com.br/" target="_blank">Meta</a>, Bacharel em Sistemas de Informação (CEFET/RJ) e Engenharia Civil (UFAC).<br>
   Tenho paixão por resolver problemas complexos com código limpo, eficiente e escalável.
 </p>
 
